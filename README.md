@@ -22,4 +22,4 @@ Support for picking file as a command-line argument is an intended future featur
 ## Demo
 Original image: \
 ![](images/orig/keqing.png) \
-[Converted Ascii Art Version](images/output/keqing.txt)
+[Converted ascii art text](images/output/keqing.txt)
